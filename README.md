@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://fmawork.com)
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 <h3 align="center">A passionate frontend/Backend developer from Italia</h3>
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3kko2001&label=Profile%20views&color=0e75b6&style=flat" alt="k3kko2001" /> </p>
 
 - 🌱 I’m currently learning **Java**
