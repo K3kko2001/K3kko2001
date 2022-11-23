@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [www.fmawork.com](www.fmawork.com)
+- 👨‍💻 All of my projects are available at https://fmawork.com
 
 - 💬 Ask me about **everything**
 
